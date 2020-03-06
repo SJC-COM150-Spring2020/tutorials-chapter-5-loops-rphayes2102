@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Exercise3\bin\Debug\Exercise3.exe.config
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Exercise3\bin\Debug\Exercise3.exe
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Exercise3\bin\Debug\Exercise3.pdb
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Exercise3\bin\Debug\Exercise3.xml
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Exercise3\obj\Debug\Exercise3.Exercise3.resources
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Exercise3\obj\Debug\Exercise3.Resources.resources
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Exercise3\obj\Debug\Exercise3.vbproj.GenerateResource.Cache
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Exercise3\obj\Debug\Exercise3.exe
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Exercise3\obj\Debug\Exercise3.xml
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Exercise3\obj\Debug\Exercise3.pdb

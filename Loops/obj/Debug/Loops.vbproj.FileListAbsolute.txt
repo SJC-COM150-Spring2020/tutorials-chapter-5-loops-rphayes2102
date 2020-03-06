@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Loops\bin\Debug\Loops.exe.config
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Loops\bin\Debug\Loops.exe
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Loops\bin\Debug\Loops.pdb
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Loops\bin\Debug\Loops.xml
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Loops\obj\Debug\Loops.vbprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Loops\obj\Debug\Loops.Exercise1.resources
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Loops\obj\Debug\Loops.Resources.resources
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Loops\obj\Debug\Loops.vbproj.GenerateResource.Cache
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Loops\obj\Debug\Loops.exe
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Loops\obj\Debug\Loops.xml
+\\Mac\Home\Documents\SJC\COM150\projects\Chapter5LoopExercises\Loops\obj\Debug\Loops.pdb
